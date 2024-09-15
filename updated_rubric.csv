@@ -1,7 +1,7 @@
-SQUAWK,Comments,Classification
-Structure,"There is a clear, identifiable structure throughout.",First
-Structure,The essay is generally well-structured with some minor issues.,UpperTwo
-Structure,"The essay has some structure, but the logical flow is not always clear.",Lower2
-Structure,The essay has some structural issues that make it hard to follow the line of thinking.,Third
-Structure,There are serious weaknesses in the structure of the essay that  make it hard to follow the line of thinking.,Fail
-Structure,The main ideas have a good logical flow between them. The individual points are clearly linked with generally good transitions between paragraphs.,First
+SQUAWK,Comments,First,Upper2,Lower2,Third,Fail
+Structure,Overall Structure,"There is a clear, identifiable structure throughout.",The essay is generally well-structured with some minor issues.,"The essay has some structure, but the logical flow is not always clear.",The essay has some structural issues that make it hard to follow the line of thinking.,There are serious weaknesses in the structure of the essay that  make it hard to follow the line of thinking.
+Structure,LogicalFlow,The main ideas have a solid logical flow between them. The individual points are clearly linked with generally good transitions between paragraphs.,There is  a good logical flow between ideas. Some points could be more clearly linked.,"There is a generally good flow of ideas within and between paragraphs, but there are a number of areas where transitions between ideas could be clearer or where there were abrupt topic changes.",The transition between ideas was not always clear. There were abrupt changes in topic.,There was a limited flow of ideas. Topics often changed abrutly or were not clearly linked.
+ , , ,,,,
+ , , ,,,,
+ , , ,,,,
+ , , ,,,,
