@@ -1,67 +1,70 @@
-﻿SQUAWK,Comments
-Structure,Good use of distinct paragraphs to convey key ideas with clear topics.
-Structure,A helpful introductory paragraph that sets up the key ideas.
-Structure,There is a helpful roadmap that sets up the arguments.
-Structure,Paragraphs generally contained an appropriate amount of information.
-Structure,There is a helpful conclusion that synthesises the arguments and a clear take-home message.
-Structure,Make sure to have key topics for paragraphs.
-Structure,The introductory paragraph could more clearly set up the key ideas of the essay.
-Structure,Some paragraphs were limited in scope.
-Structure,Some paragraphs were too dense.
-Structure,A clear roadmap that sets up the essay in the first paragraph would help.
-Structure,Avoid defining too many terms in the introduction.
-Structure,Avoid using undefined terms in the introduction.
-Structure,The transitions between ideas could be smoother.
-Structure,Avoid bringing new ideas into the conclusion.
-Structure,A conclusion that synthesises the main ideas with a clear take-home message would help.
-Question,There was a good level of depth in answering the question.
-Question,The conclusion provided a clear answer to the question.
-Question,The essay was generally well-focussed and did not deviate from the main topic.
-Question,The essay at times lost focus on the main question.
-Question,The essay is on topic but could answer the question more directly.
-Question,The answer was broad/vague when a more specific answer would be stronger. 
-Question,The tessay focussed too much specifically on tool use.
-Question,There was discussion on the main relevant topics but these could have been expanded on.
-Question,Concluding that 'more evidence is needed' or waffling on a conclusion weakens the answer to the question.
-Understanding,"There was a good understanding of the broad, relevant topics."
-Understanding,An understanding of the more nuanced aspects of the topic was demonstrated.
-Understanding,Key terms were generally well-defined.
-Understanding,Watch out for jargon and undefined terms.
-Understanding,There was some misunderstanding/misconception of key ideas.
-Understanding,There was a good understanding of the main topics and how they relate to each other.
-Understanding,The link between CCE and the cultural ratchet could be more clearly explained.
-Understanding,Some points rely on the reader to bring their own knowledge.
-Understanding,Some key terms could be better defined. 
-Argument,There was solid critical evaluation of the evidence provided.
-Argument,"There was a clear, helpful conclusion."
-Argument,"There was a conclusion, but it could have been stronger."
-Argument,"There were some good, explicit links between the arguments and the evidence."
-Argument,There was relevant evidence to back up some claims but the link was left more implicit than explicit.
-Argument,There could be more direct evidence used to back up some of the claims. 
-Argument,It is helpful to explain the logic of why a piece of evidence supports a specific claim.
-Argument,Revisitng some of the UoM Library resources on critical evaluation might help in future essays.
-Argument,There was good evidence to support claims.
-Argument,Some claims were made without appropriate supporting evidence.
-Argument,"Watch out for generic critiques. Theoretical, specific critiques are more effective."
-Argument,There was good evaluation of evidence.
-Argument,The critical evaluation could be stronger.
-Argument,There was a focus on methodological or surface level critical evaluation where a focus on more theoretical evaluations would make a stronger essay.
-Writing,Make sure to use an appropriate academic style. 
-Writing,"Avoid using too many 'smart words' or flowery sentences, overloading on those can reduce the readability of the essay."
-Writing,Watch out for using jargon without explaining it.
-Writing,Watch out for spelling/grammar issues which can detract from the writing.
-Writing,The writing style was quite vague and would benefit from more nuance.
-Writing,Revisiting some of the UoM Library resources on essay writing might help in future essays.
-Writing,Watch out for directly taking content from other sources.
-Writing,There are serious concerns about plagiarism in this essay.
-Writing,This type of writing should rely more on paraphrasing rather than direct quotes.
-Writing,"If you do use direct wording from other sources, this needs to use APA quotes."
-Writing,Make sure to use proper formatting (see BSc Psych Handbook)
-Writing,"Watch out for generic terminology (e.g., advanced, intelligent)"
-Writing,Make sure to check APA formatting.
-Knowledge,You generally made good use of key relevant papers.
-Knowledge,The resources used were generally effective for making your claims.
-Knowledge,An extension of more content beyond the lecture materials would make for a more comprehensive essay.
-Knowledge,Watch out for the 'kitchen sink' approach. Discussing a narrower range of topics allows you to go more in-depth.
-Knowledge,"A fairly limited number of resources were used, which limited the stength of the arguments."
-Knowledge,It is better to focus more narrowly on a subset of topics than to superficially cover too many.
+﻿SQUAWK,Comments,Tone,S
+Structure,Paragraphs generally contained an appropriate amount of information.,black,1
+Structure,Good use of distinct paragraphs to convey key ideas with clear topics.,green,1
+Structure,A helpful introductory paragraph that sets up the key ideas.,green,1
+Structure,There is a helpful roadmap that sets up the arguments.,green,1
+Structure,There is a helpful conclusion that synthesises the arguments and a clear take-home message.,green,1
+Structure,Make sure to have key topics for paragraphs.,red,1
+Structure,The introductory paragraph could more clearly set up the key ideas of the essay.,red,1
+Structure,Some paragraphs were limited in scope.,red,1
+Structure,Some paragraphs were too dense.,red,1
+Structure,A clear roadmap that sets up the essay in the first paragraph would help.,red,1
+Structure,Avoid defining too many terms in the introduction.,red,1
+Structure,Avoid using undefined terms in the introduction.,red,1
+Structure,The transitions between ideas could be smoother.,red,1
+Structure,Avoid bringing new ideas into the conclusion.,red,1
+Structure,A conclusion that synthesises the main ideas with a clear take-home message would help.,red,1
+Question,The essay is on topic but could answer the question more directly.,black,2
+Question,There was discussion on the main relevant topics but these could have been expanded on.,black,2
+Question,There was a good level of depth in answering the question.,green,2
+Question,The conclusion provided a clear answer to the question.,green,2
+Question,The essay was generally well-focussed and did not deviate from the main topic.,green,2
+Question,The essay at times lost focus on the main question.,red,2
+Question,The answer was broad/vague when a more specific answer would be stronger. ,red,2
+Question,The tessay focussed too much specifically on tool use.,red,2
+Question,Concluding that 'more evidence is needed' or waffling on a conclusion weakens the answer to the question.,red,2
+Understanding,"There was a good understanding of the broad, relevant topics.",green,3
+Understanding,An understanding of the more nuanced aspects of the topic was demonstrated.,green,3
+Understanding,Key terms were generally well-defined.,green,3
+Understanding,There was a good understanding of the main topics and how they relate to each other.,green,3
+Understanding,Watch out for jargon and undefined terms.,red,3
+Understanding,There was some misunderstanding/misconception of key ideas.,red,3
+Understanding,"The link between CCE and the cultural ratchet could be more clearly explained (e.g., see Mesoudi & Thornton or Tennie, Call, Tomasello papers)",red,3
+Understanding,It is important to set up a clear definition of CCE.,red,3
+Understanding,Some points rely on the reader to bring their own knowledge.,red,3
+Understanding,Some key terms could be better defined. ,red,3
+Argument,"There was a conclusion, but it could have been stronger.",black,4
+Argument,There was solid critical evaluation of the evidence provided.,green,4
+Argument,"There was a clear, helpful conclusion.",green,4
+Argument,"There were some good, explicit links between the arguments and the evidence.",green,4
+Argument,There was good evidence to support claims.,green,4
+Argument,There was good evaluation of evidence.,green,4
+Argument,There was relevant evidence to back up some claims but the link was left more implicit than explicit.,red,4
+Argument,There could be more direct evidence used to back up some of the claims. ,red,4
+Argument,It is helpful to explain the logic of why a piece of evidence supports a specific claim.,red,4
+Argument,Revisitng some of the UoM Library resources on critical evaluation might help in future essays.,red,4
+Argument,Some claims were made without appropriate supporting evidence.,red,4
+Argument,"Watch out for generic critiques. Theoretical, specific critiques are more effective.",red,4
+Argument,The critical evaluation could be stronger.,red,4
+Argument,There was a focus on methodological or surface level critical evaluation where a focus on more theoretical evaluations would make a stronger essay.,red,4
+Writing,Generally good use of writing style.,green,5
+Writing,Well-written and easy to read. ,green,5
+Writing,Make sure to use an appropriate academic style. ,red,5
+Writing,"Avoid using too many 'smart words' or flowery sentences, overloading on those can reduce the readability of the essay.",red,5
+Writing,Watch out for using jargon without explaining it.,red,5
+Writing,Watch out for spelling/grammar issues which can detract from the writing.,red,5
+Writing,The writing style was quite vague and would benefit from more nuance.,red,5
+Writing,Revisiting some of the UoM Library resources on essay writing might help in future essays.,red,5
+Writing,Watch out for directly taking content from other sources.,red,5
+Writing,Make sure to write using your own words.,red,5
+Writing,This type of writing should rely more on paraphrasing rather than direct quotes.,red,5
+Writing,"If you do use direct wording from other sources, this needs to use APA quotes.",red,5
+Writing,Make sure to use proper formatting (see BSc Psych Handbook),red,5
+Writing,"Watch out for generic terminology (e.g., advanced, important, interesting)",red,5
+Writing,Make sure to check APA formatting.,red,5
+Knowledge,You generally made good use of key relevant papers.,green,6
+Knowledge,The resources used were generally effective at supporting your claims.,green,6
+Knowledge,Watch out for the 'kitchen sink' approach. Discussing a narrower range of topics allows you to go more in-depth.,red,6
+Knowledge,"A fairly limited number of resources were used, which limited the stength of the arguments.",red,6
+Knowledge,It is better to focus more narrowly on a subset of topics than to superficially cover too many.,red,6
+,,, 
