@@ -6,15 +6,15 @@ Structure,There is a helpful roadmap that sets up the arguments.,green,1
 Structure,There is a helpful conclusion that synthesises the arguments and a clear take-home message.,green,1
 Structure,Make sure to have key topics for paragraphs.,red,1
 Structure,The introductory paragraph could more clearly set up the key ideas of the essay.,red,1
-Structure,Some paragraphs were limited in scope.,red,1
-Structure,Some paragraphs were too dense.,red,1
+Structure,Some paragraphs were limited in scope. Make sure that you have time to explain your ideas in depth.,red,1
+Structure,Some paragraphs were too dense. It might help to break them up with specific topics to discrete paragraphs. ,red,1
 Structure,A clear roadmap that sets up the essay in the first paragraph would help.,red,1
 Structure,Avoid defining too many terms in the introduction.,red,1
-Structure,Avoid using undefined terms in the introduction.,red,1
+Structure,Avoid using undefined terms in the introduction. ,red,1
 Structure,The transitions between ideas could be smoother.,red,1
-Structure,Avoid bringing new ideas into the conclusion.,red,1
+Structure,Avoid bringing new ideas into the conclusion. The conclusion should be a summary and synthesis of what you have already presented.,red,1
 Structure,A conclusion that synthesises the main ideas with a clear take-home message would help.,red,1
-Question,The essay is on topic but could answer the question more directly.,black,2
+Question,The essay is on topic but could answer the question more directly/comprehensively.,black,2
 Question,There was discussion on the main relevant topics but these could have been expanded on.,black,2
 Question,There was a good level of depth in answering the question.,green,2
 Question,The conclusion provided a clear answer to the question.,green,2
@@ -27,10 +27,11 @@ Understanding,"There was a good understanding of the broad, relevant topics.",gr
 Understanding,An understanding of the more nuanced aspects of the topic was demonstrated.,green,3
 Understanding,Key terms were generally well-defined.,green,3
 Understanding,There was a good understanding of the main topics and how they relate to each other.,green,3
-Understanding,Watch out for jargon and undefined terms.,red,3
+Understanding,Watch out for jargon and undefined terms. Either simpliy the language or make it clear what the terms mean to the reader. ,red,3
 Understanding,There was some misunderstanding/misconception of key ideas.,red,3
 Understanding,The link between CCE and the cultural ratchet could be more clearly explained.,red,3
 Understanding,"It is important to set up a clear definition of CCE (e.g., see Mesoudi & Thornton or Tennie, Call, Tomasello papers).",red,3
+Understanding,There was a general understanding of the broad issues but the more superficial analysis could better demonstrate and understanding of the nuances and details.,red,3
 Understanding,Some points rely on the reader to bring their own knowledge.,red,3
 Understanding,Some key terms could be better defined. ,red,3
 Argument,"There was a conclusion, but it could have been stronger.",black,4
@@ -38,7 +39,9 @@ Argument,There was solid critical evaluation of the evidence provided.,green,4
 Argument,"There was a clear, helpful conclusion.",green,4
 Argument,"There were some good, explicit links between the arguments and the evidence.",green,4
 Argument,There was good evidence to support claims.,green,4
+Argument,There was good evidence to support some claims.,green,4
 Argument,There was good evaluation of evidence.,green,4
+Argument,There was some good evaluation of evidence.,green,4
 Argument,There was relevant evidence to back up some claims but the link was left more implicit than explicit.,red,4
 Argument,There could be more direct evidence used to back up some of the claims. ,red,4
 Argument,It is helpful to explain the logic of why a piece of evidence supports a specific claim.,red,4
@@ -60,6 +63,7 @@ Writing,Make sure to write using your own words.,red,5
 Writing,This type of writing should rely more on paraphrasing rather than direct quotes.,red,5
 Writing,"If you do use direct wording from other sources, this needs to use APA quotes.",red,5
 Writing,Make sure to use proper formatting (see BSc Psych Handbook),red,5
+Writing,"Avoid unattributed claims (e.g., 'researchers say…' without citing the researchers.",red,
 Writing,"Watch out for generic terminology (e.g., advanced, important, interesting)",red,5
 Writing,Make sure to check APA formatting.,red,5
 Knowledge,You generally made good use of key relevant papers.,green,6
@@ -67,4 +71,4 @@ Knowledge,The resources used were generally effective at supporting your claims.
 Knowledge,Watch out for the 'kitchen sink' approach. Discussing a narrower range of topics allows you to go more in-depth.,red,6
 Knowledge,"A fairly limited number of resources were used, which limited the stength of the arguments.",red,6
 Knowledge,It is better to focus more narrowly on a subset of topics than to superficially cover too many.,red,6
-,,, 
+Knowledge,Some inappropriate sources. ,, 
