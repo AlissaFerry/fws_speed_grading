@@ -27,7 +27,7 @@ Understanding,"There was a good understanding of the broad, relevant topics.",gr
 Understanding,An understanding of the more nuanced aspects of the topic was demonstrated.,green,3
 Understanding,Key terms were generally well-defined.,green,3
 Understanding,There was a good understanding of the main topics and how they relate to each other.,green,3
-Understanding,Watch out for jargon and undefined terms. Either simpliy the language or make it clear what the terms mean to the reader. ,red,3
+Understanding,Watch out for jargon and undefined terms. Either simplify the language or make it clear what the terms mean to the reader. ,red,3
 Understanding,There was some misunderstanding/misconception of key ideas.,red,3
 Understanding,The link between CCE and the cultural ratchet could be more clearly explained.,red,3
 Understanding,"It is important to set up a clear definition of CCE (e.g., see Mesoudi & Thornton or Tennie, Call, Tomasello papers).",red,3
@@ -42,6 +42,7 @@ Argument,There was good evidence to support claims.,green,4
 Argument,There was good evidence to support some claims.,green,4
 Argument,There was good evaluation of evidence.,green,4
 Argument,There was some good evaluation of evidence.,green,4
+Argument,There were some good ideas in the essay but they needed more explanation to demonstrate the logic.,red,4
 Argument,There was relevant evidence to back up some claims but the link was left more implicit than explicit.,red,4
 Argument,There could be more direct evidence used to back up some of the claims. ,red,4
 Argument,It is helpful to explain the logic of why a piece of evidence supports a specific claim.,red,4
@@ -54,7 +55,7 @@ Writing,Generally good use of writing style.,green,5
 Writing,Well-written and easy to read. ,green,5
 Writing,Make sure to use an appropriate academic style. ,red,5
 Writing,"Avoid using too many 'smart words' or flowery sentences, overloading on those can reduce the readability of the essay.",red,5
-Writing,Watch out for using jargon without explaining it.,red,5
+Writing,Avoid using jargon without explaining it.,red,5
 Writing,Watch out for spelling/grammar issues which can detract from the writing.,red,5
 Writing,The writing style was quite vague and would benefit from more nuance.,red,5
 Writing,Revisiting some of the UoM Library resources on essay writing might help in future essays.,red,5
@@ -63,12 +64,13 @@ Writing,Make sure to write using your own words.,red,5
 Writing,This type of writing should rely more on paraphrasing rather than direct quotes.,red,5
 Writing,"If you do use direct wording from other sources, this needs to use APA quotes.",red,5
 Writing,Make sure to use proper formatting (see BSc Psych Handbook),red,5
-Writing,"Avoid unattributed claims (e.g., 'researchers say…' without citing the researchers.",red,
+Writing,"Avoid unattributed claims (e.g., 'researchers say…' without citing the researchers.",red,5
 Writing,"Watch out for generic terminology (e.g., advanced, important, interesting)",red,5
 Writing,Make sure to check APA formatting.,red,5
 Knowledge,You generally made good use of key relevant papers.,green,6
 Knowledge,The resources used were generally effective at supporting your claims.,green,6
 Knowledge,Watch out for the 'kitchen sink' approach. Discussing a narrower range of topics allows you to go more in-depth.,red,6
 Knowledge,"A fairly limited number of resources were used, which limited the stength of the arguments.",red,6
+Knowledge,The papers that were used were used appropriately.,red,6
 Knowledge,It is better to focus more narrowly on a subset of topics than to superficially cover too many.,red,6
-Knowledge,Some inappropriate sources. ,, 
+Knowledge,Some inappropriate sources. ,red,6
