@@ -17,18 +17,27 @@ Structure,Avoid bringing new ideas into the conclusion. The conclusion should be
 Structure,A conclusion that synthesises the main ideas with a clear take-home message would help.,red,1
 Question,The essay is on topic but could answer the question more directly/comprehensively.,black,2
 Question,There was discussion on the main relevant topics but these could have been expanded on to provide a more comprehensive answer.,black,2
+Question,There was a discussion of the different features linked to morality.,black,2
+Question,There was a discussion of non-human 'morality' and the implications of non-human research.,black,2
 Question,There was a good level of depth in answering the question.,green,2
 Question,The conclusion provided a clear answer to the question.,green,2
 Question,The essay was generally well-focussed and did not deviate from the main topic.,green,2
 Question,The essay at times lost focus on the main question.,red,2
 Question,The answer was broad/vague when a more specific answer would be stronger. ,red,2
+Question,There was discussion of non-human morality researchs but limited links to interpretations about human uniqueness.,red,2
 Question,Concluding that 'more evidence is needed' or waffling on a conclusion weakens the answer to the question.,red,2
-Understanding,An overall understanding of the goals of the essay prompt was demonstrated.,black,3
+Understanding,An overall understanding of the goals of the essay topic was demonstrated.,black,3
 Understanding,"A  good understanding of the broad, relevant topics.",green,3
 Understanding,An understanding of the more nuanced aspects of the topic was demonstrated.,green,3
 Understanding,Key terms were generally well-defined.,green,3
+Understanding,There was a good understanding of the distinction between 'morality' in humans and non-humans.,green,3
+Understanding,There was a good understanding of what non-humans can tell us about unqiuely human skills.,green,3
+Understanding,There was a good understanding of broad evolutiony ideas.,green,3
 Understanding,There was a good understanding of the main topics and how they relate to each other.,green,3
 Understanding,Watch out for jargon and undefined terms. Either simplify the language or make it clear what the terms mean to the reader. ,red,3
+Understanding,The distinction between different aspects of morality could have been clearer.,red,3
+Understanding,There was a discussion of non-human morality  but it could be clearer what it tells us about human morality.,red,3
+Understanding,An understanding of general evolutionary ideas could have been better demonstrated.,red,3
 Understanding,There was some misunderstanding/misconception of key ideas.,red,3
 Understanding,There was a general understanding of the broad issues but the more superficial analysis could better demonstrate and understanding of the nuances and details.,red,3
 Understanding,Some points rely on the reader to bring their own knowledge.,red,3
@@ -48,6 +57,7 @@ Argument,There could be more direct evidence used to back up some of the claims.
 Argument,It is helpful to explain the logic of why a piece of evidence supports a specific claim.,red,4
 Argument,Revisitng some of the UoM Library resources on critical evaluation might help in future essays.,red,4
 Argument,Some claims were made without appropriate supporting evidence.,red,4
+Argument,Quite a lot of time was spent explaining less relevant specific details and less focus on explaining the argument.,red,4
 Argument,"Watch out for generic critiques. Theoretical, specific critiques are more effective.",red,4
 Argument,The critical evaluation could be stronger.,red,4
 Argument,There was a focus on methodological or surface level critical evaluation where a focus on more theoretical evaluations would make a stronger essay.,red,4
@@ -68,10 +78,15 @@ Writing,"Avoid unattributed claims (e.g., 'researchers say…' without citing th
 Writing,"Avoid  generic terminology (e.g., advanced, important, interesting)",red,5
 Writing,Make sure to check APA formatting.,red,5
 Knowledge,Relevant papers from lecture were brought in. ,black,6
+Knowledge,The papers that were used were used appropriately.,black,6
 Knowledge,You generally made good use of key relevant papers.,green,6
+Knowledge,An appropriate range of non-human features were discussed to make your argument. ,green,6
 Knowledge,The resources used were generally effective at supporting your claims.,green,6
 Knowledge,Watch out for the 'kitchen sink' approach. Discussing a narrower range of topics allows you to go more in-depth.,red,6
+Knowledge,Too many different non-human features were discussed that there was less room for explaining their relevance.,red,6
+Knowledge,There was too little focus on non-human morality features.,red,6
 Knowledge,"A fairly limited number of resources were used, which limited the stength of the arguments.",red,6
-Knowledge,The papers that were used were used appropriately.,red,6
 Knowledge,It is better to focus more narrowly on a subset of topics than to superficially cover too many.,red,6
 Knowledge,Some inappropriate sources. ,red,6
+Knowledge,You missed some key papers from lecture content that would have strengthened your arguments.,red,6
+Knowledge,Some claims were missing necessary citations.,red,6
